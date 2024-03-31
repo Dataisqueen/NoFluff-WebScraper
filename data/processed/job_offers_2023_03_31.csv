@@ -1,0 +1,81 @@
+position;technology;company;wage min;wage max;currency;city;location_country;is_senior
+Spark(Java or Scala) Developer;Spark;ComScore;20000;25000;PLN;Zdalnie;N/A;0
+Data Engineer;Python;People More P.S.A.;25000;33000;PLN;Zdalnie;N/A;0
+Data Scientist;SQL;Justtag Group;14000;18000;PLN;Warszawa;Polska;0
+Solutions Architect;SQL;Crestt;22000;28000;PLN;Warszawa;Polska;0
+Data Engineer;SQL;Falck IT Poland Sp. z o.o.;16000;18000;PLN;Warszawa;Polska;0
+Senior Data Warehouse Developer;Not Listed;ING BANK ŒL¥SKI SPÓ£KA AKCYJNA;14000;28000;PLN;Zdalnie;N/A;1
+Big Data Engineer with Scala;Scala;Luxoft;15000;18900;PLN;Kraków;Polska;0
+Data Analyst;SQL;saas.group;18702;23377;PLN;Zdalnie;N/A;0
+Data Engineer;Python;Addepto;20100;30200;PLN;Zdalnie;N/A;0
+Data Engineer w/ DevOps;SQL;Mindbox S.A.;27300;32550;PLN;Kraków;Polska;0
+Big Data Developer;Spark;Avenga;20160;28560;PLN;Zdalnie;N/A;0
+Data Engineer;Spark;ComScore;20000;25000;PLN;Zdalnie;N/A;0
+Big Data Engineer;Python;Raiffeisen Bank International AG, Oddzia³ w Polsce;20000;30000;PLN;Zdalnie;N/A;0
+Data Engineer (with AWS);AWS;Insight - Nexer Group;19000;30500;PLN;Zdalnie;N/A;0
+Senior Data Engineer with Python;Python;Objectivity;21840;26040;PLN;Zdalnie;N/A;1
+Database Aadministrator;Azure;Volvo Group;12000;18000;PLN;Wroc³aw;Polska;0
+Power BI Developer/Data Analyst;Power BI;Objectivity;15960;21168;PLN;Zdalnie;N/A;0
+DATA ENGINEER (Power BI Developer);Power BI;Perfect Gym Solutions;12000;15000;PLN;Warszawa;Polska;0
+Data Engineer;Python;hubQuest;20000;28500;PLN;Zdalnie;N/A;0
+Senior Cloud Data Engineer;SQL;Link Group;27000;35000;PLN;Warszawa;Polska;1
+Senior Cloud Data Engineer;Python;SEB (Skandinaviska Enskilda Banken);25000;33000;PLN;Warszawa;Polska;1
+Remote Senior DB integration Developer;SQL;Proxet;23613;27907;PLN;Zdalnie;N/A;1
+Senior Python Engineer (Data Platform);Python;Orca Security;21467;27907;PLN;Zdalnie;N/A;1
+Data Engineer;AWS;Customertimes;17173;34347;PLN;Zdalnie;N/A;0
+Programista baz danych;SQL;Avenga;16800;19320;PLN;Zdalnie;N/A;0
+Mid Data Modeller - NoSQL;NoSQL;HSBC Technology Poland;14500;16500;PLN;Kraków;Polska;0
+Deployment Specialist;IBM Db2;HSBC Technology Poland;17000;23000;PLN;Kraków;Polska;0
+Data Team Leader;SQL;Entire M Sp. z o.o.;15000;20000;PLN;Wroc³aw;Polska;0
+Remote Junior MS SQL Administrator;SQL;NATEK Poland;6300;12600;PLN;Zdalnie;N/A;0
+Technical Data Steward;Python;SEB (Skandinaviska Enskilda Banken);17000;23000;PLN;Warszawa;Polska;0
+Remote Big Data Tech Lead;Spark;ClearScale;30240;37464;PLN;Zdalnie;N/A;0
+Senior/Expert Data Engineer;Python;Digital Hub Warsaw at Bayer;20000;28000;PLN;Warszawa;Polska;1
+Remote Data Engineer with Azure;PySpark;Link Group;20000;34000;PLN;Zdalnie;N/A;0
+Data Analyst;Python;Link Group;17000;20000;PLN;Warszawa;Polska;0
+Data Engineer in Banking;Python;Link Group;21000;26000;PLN;Warszawa;Polska;0
+Data Engineer with Spark;Spark;Link Group;35000;40000;PLN;Warszawa;Polska;0
+Remote ETL Developer;Not Listed;Link Group;19000;22000;PLN;Zdalnie;N/A;0
+Remote Senior Data Lake Engineer;AWS;Link Group;20160;26880;PLN;Zdalnie;N/A;1
+Junior Data Analyst;SQL;Proxi.cloud sp. z o.o;7500;7500;PLN;Zdalnie;N/A;0
+Remote Scala Big Data Developer;Scala;Link Group;26880;31920;PLN;Zdalnie;N/A;0
+Azure Data Developer / Lead;Python;Link Group;27000;33500;PLN;Zdalnie;N/A;0
+AWS Cloud Data Engineer;AWS;AVENGA;21840;24360;PLN;Zdalnie;N/A;0
+Data Engineer with GCP;GCP;GFT Poland;21840;32760;PLN;Zdalnie;N/A;0
+Data Engineer;Not Listed;Sigma IT Poland;24000;28500;PLN;Zdalnie;N/A;0
+Data Engineer;Azure;Nordcloud;20000;32000;PLN;Zdalnie;N/A;0
+Data Scientist;Python;Astrokyon;12000;21000;PLN;Zdalnie;N/A;0
+Spec. Model Development, Risk Modelling;Python;BNY Mellon;11000;20333;PLN;Wroc³aw;Polska;0
+DB integration Engineer;SQL;Proxet;23613;27907;PLN;Wroc³aw;Polska;0
+Senior Big Data Engineer - Data & AI;Scala;Allegro;16100;23200;PLN;Poznañ;Polska;1
+Cloud Data Engineer;Python;hubQuest;20000;28500;PLN;Zdalnie;N/A;0
+Senior Data Engineer (Python/Azure);Python;ERGO Technology & Services;18000;23000;PLN;Warszawa;Polska;1
+Cloud/Platform Engineer with AWS;AWS;dotLinkers;26502;39270;PLN;Zdalnie;N/A;0
+Remote Database Engineer - PostgreSQL;SQL;Link Group;21840;30240;PLN;Zdalnie;N/A;0
+Data Engineer;AWS;Infolet Sp. z o.o;33600;40300;PLN;Kraków;Polska;0
+Date Engineer;Python;INUITS;16940;21780;PLN;Zdalnie;N/A;0
+Data Engineer with Scala;Scala;GFT Poland;18480;26880;PLN;Zdalnie;N/A;0
+Senior Data Engineer;SQL;Harvey Nash Technology;18000;24000;PLN;Zdalnie;N/A;1
+Data Team Leader;SQL;Entire M Sp. z o.o.;15000;20000;PLN;Wroc³aw;Polska;0
+Senior Data Scientist;Python;ASTEK Polska;18900;23100;PLN;Zdalnie;N/A;1
+Senior Data Scientist;Python;Sunscrapers;30000;34000;PLN;Zdalnie;N/A;1
+Data Scientist with Azure;Azure;GFT Poland;25200;36120;PLN;Zdalnie;N/A;0
+GCP Data Engineer;GCP;Endava;17000;24000;PLN;Warszawa;Polska;0
+Oracle Senior/Lead Developer;Oracle;GFT Poland;21840;32760;PLN;Zdalnie;N/A;1
+IoT Engineer (Python);Python;Cognitum Services SA;18480;29570;PLN;Zdalnie;N/A;0
+Big Data Engineer;Python;Raiffeisen Bank International AG, Oddzia³ w Polsce;20000;30000;PLN;Zdalnie;N/A;0
+Software Development Engineer III – Data;Hadoop;Tesco Technology;26000;40000;PLN;Kraków;Polska;0
+Software Development Engineer II - Data;Hadoop;Tesco Technology;20000;30000;PLN;Kraków;Polska;0
+Senior Data Scientist;Not Listed;AVENGA;26880;30240;PLN;Zdalnie;N/A;1
+Senior Data Engineer (Kafka);Python;Sigma IT Poland;23500;28500;PLN;Zdalnie;N/A;1
+Data Engineer with Python;Python;Sigma IT Poland;22000;26880;PLN;Zdalnie;N/A;0
+Remote Senior Data Engineer II;Python;Sunscrapers;30000;42000;PLN;Zdalnie;N/A;1
+Senior Big Data Developer;Hadoop;EPAM;21100;24100;PLN;Katowice;Polska;1
+Junior/Mid Data Engineer (Biotech);Python;Sigma IT Poland;18000;25000;PLN;Zdalnie;N/A;0
+Data Scientist;Not Listed;Altimetrik Poland;20000;26000;PLN;Zdalnie;N/A;0
+Big Data Developer;Python;AVENGA;30000;40000;PLN;Kraków;Polska;0
+Junior ETL / SQL Developer;SQL;Green Minds Sp.z o.o.;10080;12000;PLN;Zdalnie;N/A;0
+Junior Data Engineer;SQL;Documati;5500;8000;PLN;Warszawa;Polska;0
+Data Analyst;SQL;saas.group;18702;23377;PLN;Zdalnie;N/A;0
+Senior Data Pipeline Engineer;Java;Instructure Hungary Kft;18417;24556;PLN;Budapest;Wêgry;1
+Senior Data Engineer;Python;United Consult Zrt.;14733;24556;PLN;Budapest;Wêgry;1
