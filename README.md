@@ -1,25 +1,35 @@
-# NoFluff WebScraper - a useful approximation tool for HR departmens
+<h1> NoFluff WebScraper - a useful approximation tool for HR departments </h1>
 
-A tool scraping IT-related job offers. Gathered data helps decision making concering:
-- amount of offers currently on the market
-- distribution of offers across cities
-- popularity of remote jobs
-- adequate salary range
+A tool used for scraping IT-related job offers. Gathered data helps decision-making concering:
+<ul>
+  <li>  amount of offers currently on the market </li>
+  <li>  distribution of offers across cities </li>
+  <li> popularity of remote jobs</li>
+  <li> adequate salary range</li>
+</ul>
 
-NoFluff Jibs portal was scraped for data related to following positions:
-- data analyst
-- data scientist
-- data engineer
+NoFluff Jobs portal was scraped for data related to following positions:
+<ul>
+  <li> data analyst</li>
+  <li> data scientist</li>
+  <li> data engineer</li>
+</ul>
 
 Based on gathered data, one can make more precise approximations concerning:
-- total expenditure on hiring said specialists
-- what salary range should a hiring offer provide
-- which cities have the highest demand on certain positions
-- the probability of hiring an entire data-team in one city
-  etc.
 
-Used Tools:
-Selenium - gathering data on up-to-date ob-offers
-BeautifulSoup - Converting unstruturised data (HTML) into tabular data
-Pandas - Data Analysis
-MatplotLib - Finding visualisation
+<ul>
+  <li> total expenditure on hiring said specialists</li>
+  <li> what salary range should a hiring offer provide</li>
+  <li> which cities have the highest demand on certain positions</li>
+  <li> the probability of hiring an entire data-team in one city</li>
+  etc.
+</ul>
+
+<h2> Used Tools: </h2>
+
+<ul>
+  <li> <b>Selenium </b> - gathering data on up-to-date ob-offers</li>
+  <li> <b>BeautifulSoup </b> - Converting unstruturised data (HTML) into tabular data</li>
+  <li> <b>Pandas</b> - Data Analysis</li>
+  <li> <b>MatplotLib</b> - Finding visualisation</li>
+</ul>
