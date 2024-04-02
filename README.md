@@ -25,7 +25,7 @@ Based on gathered data, one can make more precise approximations concerning:
   etc.
 </ul>
 
-<h2> Used Tools: </h2>
+<h2> Used Library: </h2>
 
 <ul>
   <li> <b>Selenium </b> - gathering data on up-to-date ob-offers</li>
