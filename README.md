@@ -1,9 +1,9 @@
 <h1> NoFluff WebScraper - a useful approximation tool for HR departments </h1>
 
-A tool used for scraping IT-related job offers. Gathered data helps decision-making concering:
+A tool used for scraping IT-related job offers. Gathered data shows:
 <ul>
-  <li>  amount of offers currently on the market </li>
-  <li>  distribution of offers across cities </li>
+  <li> amount of offers currently on the market </li>
+  <li> distribution of offers across cities </li>
   <li> popularity of remote jobs</li>
   <li> adequate salary range</li>
 </ul>
@@ -28,8 +28,8 @@ Based on gathered data, one can make more precise approximations concerning:
 <h2> Used Libraries: </h2>
 
 <ul>
-  <li> <b>Selenium </b> - gathering data on up-to-date ob-offers</li>
-  <li> <b>BeautifulSoup </b> - Converting unstruturised data (HTML) into tabular data</li>
-  <li> <b>Pandas</b> - Data Analysis</li>
-  <li> <b>MatplotLib</b> - Finding visualisation</li>
+  <li> <b>Selenium </b> - gathering data on up-to-date job offers</li>
+  <li> <b>BeautifulSoup </b> - converting unstructured data (HTML) into tabular data</li>
+  <li> <b>Pandas</b> - data analysis</li>
+  <li> <b>MatplotLib</b> - visualisations </li>
 </ul>
